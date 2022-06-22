@@ -4,7 +4,8 @@
   "description": "Gets the last element in an array.",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "npm run lint && jest",
+    "lint": "npx eslint . --ext .js"    
   },
   "repository": {
     "type": "git",
@@ -23,6 +24,7 @@
   },
   "homepage": "https://github.com/Austionian/last-method#readme",
   "devDependencies": {
+    "eslint": "^8.18.0",
     "jest": "^28.1.1"
   }
 }
