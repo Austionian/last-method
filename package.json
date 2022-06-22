@@ -1,6 +1,6 @@
 {
   "name": "last-method",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Gets the last element in an array.",
   "main": "index.js",
   "scripts": {
