@@ -17,5 +17,3 @@ array.last() // 5
 const emptyArray = []
 emptyArray.last() // -1
 ```
-
-*Does what Ecma International what refuses to*
