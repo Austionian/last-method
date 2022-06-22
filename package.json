@@ -1,0 +1,28 @@
+{
+  "name": "last-method",
+  "version": "1.0.0",
+  "description": "Gets the last element in an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Austionian/last-method.git"
+  },
+  "keywords": [
+    "javascript",
+    "last",
+    "method",
+    "array"
+  ],
+  "author": "Austin Rooks",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Austionian/last-method/issues"
+  },
+  "homepage": "https://github.com/Austionian/last-method#readme",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
