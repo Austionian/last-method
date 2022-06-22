@@ -17,5 +17,3 @@ array.last() // 5
 const emptyArray = []
 emptyArray.last() // -1
 ```
-
-(*this repo is a satire of javascript node modules. please do not actually use it.*)
